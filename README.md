@@ -115,7 +115,8 @@ Projects pages are generated from the "projectsData" object in Utils.js and then
 name: string name of project,
 imageURL: url of image which shows on project card and main title image,
 imageAlt: alt for imageURL,
-year: The year the project was started
+yearStart: The year the project was started
+yearEnd: The year the project was finished //optional (Incase the project is ongoing, if ongoing remove yearEnd)
 tags: An array of strings which are the categories the project belongs to
 titleVideoOverride: { //optional
     youTubeId: id of YouTube Video,
