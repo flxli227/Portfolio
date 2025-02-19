@@ -11,6 +11,7 @@ import GorillaSuit from '../../projectPages/Gorilla Suit';
 import Library from '../../projectPages/Library';
 import ME2ScooterProject from '../../projectPages/ME2 Scooter Project';
 import NewSpawnBaby from '../../projectPages/New Spawn Baby';
+import NotarEase from '../../projectPages/NotarEase';
 import Notbook from '../../projectPages/NotBook';
 import PastaOrNoodles from '../../projectPages/Pasta Or Noodles.js';
 import Pool2 from '../../projectPages/Pool 2';
@@ -43,7 +44,9 @@ class JavascriptPageShow extends Component {
       return <ME2ScooterProject/>  
     } else if(projectName === "New Spawn Baby"){
       return <NewSpawnBaby/>  
-    } else if(projectName === "Notbook"){
+    } else if(projectName === "NotarEase"){
+      return <NotarEase/>  
+    }else if(projectName === "Notbook"){
       return <Notbook/>  
     } else if(projectName === "Pasta or Noodles"){
       return <PastaOrNoodles/>  

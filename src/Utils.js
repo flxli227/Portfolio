@@ -61,7 +61,7 @@ export const tags=[
 //Projects data
 export const projectsData= [
     {
-        id: 16,
+        id: 17,
         name: "Pasta or Noodles",
         imageURL: require("./assets/Pasta or Noodles/HeroImage2-ezgif.com-png-to-jpg-converter.jpg"),
         imageAlt: "Pasta or Noodle Hero Image",
@@ -74,7 +74,7 @@ export const projectsData= [
         body: "A playful machine learning tool which tells you if an image is pasta or noodles",
     },
     {
-        id: 15,
+        id: 16,
         name: "Pool 2",
         imageURL: require("./assets/Pool2/Heroshot-Steam.jpg"),
         imageAlt: "A screenshot of Pool 2 gameplay",
@@ -85,6 +85,16 @@ export const projectsData= [
         titleVideoOverride:{
             youTubeId: "i7_Fqt3Rj-s",
         }
+    },
+    {
+        id: 15,
+        name: "NotarEase",
+        imageURL: require("./assets/NotarEase/Hero.png"),
+        imageAlt: "NotarEase logo",
+        yearStart: 2023,
+        yearEnd: 2023,
+        tags: ["UX/UI"],
+        body: "Modernising document notarisation by making it online",
     },
     {
         id: 14,
