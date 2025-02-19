@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.928a7d26.css",
-    "main.js": "/static/js/main.774ac63c.js",
+    "main.js": "/static/js/main.563dffd2.js",
     "static/js/453.ace21015.chunk.js": "/static/js/453.ace21015.chunk.js",
     "static/media/01 - VIDEO0069.mp4": "/static/media/01 - VIDEO0069.a673e4a78ca4ae26e02e.mp4",
     "static/media/Promo Video.mp4": "/static/media/Promo Video.65812f8d0b1c9890da2c.mp4",
@@ -164,6 +164,7 @@
     "static/media/DSCF1740-resized-min.jpg": "/static/media/DSCF1740-resized-min.2a63ab5e797435644145.jpg",
     "static/media/Stirrer Narative-resized-min.jpg": "/static/media/Stirrer Narative-resized-min.44c610bba0a0f342e8f4.jpg",
     "static/media/IMAG0481-resized-min.jpg": "/static/media/IMAG0481-resized-min.960bc3b0106e79452ecc.jpg",
+    "static/media/Hero.png": "/static/media/Hero.d38dd958645aadfb15ab.png",
     "static/media/CreatorSideUI2.png": "/static/media/CreatorSideUI2.4c0fddfc67c963053400.png",
     "static/media/IMAG0735-resized-min.jpg": "/static/media/IMAG0735-resized-min.ed8e43a5ee2c324aacab.jpg",
     "static/media/Slow Information Spread-03.png": "/static/media/Slow Information Spread-03.8390b71e2fd9eae253c8.png",
@@ -323,6 +324,7 @@
     "static/media/public-cropped.png": "/static/media/public-cropped.a53e64a4fb5b3559bea9.png",
     "static/media/Book-cropped.png": "/static/media/Book-cropped.f17138c5c63851250591.png",
     "static/media/Manufacturing-cropped.png": "/static/media/Manufacturing-cropped.ee24321edead584138b4.png",
+    "static/media/Approve.png": "/static/media/Approve.3ff65323e7cde425ba73.png",
     "static/media/Ejection Seat-cropped.png": "/static/media/Ejection Seat-cropped.25621b91d2de049eb554.png",
     "static/media/10-min.png": "/static/media/10-min.6af515c3ff93567a630f.png",
     "static/media/IMAG0481-thumbnail-min.jpg": "/static/media/IMAG0481-thumbnail-min.ac56025878cddd409e3b.jpg",
@@ -372,11 +374,11 @@
     "static/media/Hamburger.svg": "/static/media/Hamburger.7ab380941805ef19c9a1.svg",
     "static/media/Close.svg": "/static/media/Close.be8946c25ad550399dad.svg",
     "main.928a7d26.css.map": "/static/css/main.928a7d26.css.map",
-    "main.774ac63c.js.map": "/static/js/main.774ac63c.js.map",
+    "main.563dffd2.js.map": "/static/js/main.563dffd2.js.map",
     "453.ace21015.chunk.js.map": "/static/js/453.ace21015.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.928a7d26.css",
-    "static/js/main.774ac63c.js"
+    "static/js/main.563dffd2.js"
   ]
 }
