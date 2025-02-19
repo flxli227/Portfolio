@@ -22,7 +22,7 @@ export const tags=[
     },
     {
         id:4,
-        name: "Product Design",
+        name: "Product Ideation",
     },
     {
         id:5,
@@ -162,7 +162,7 @@ export const projectsData= [
         imageAlt: "A screenshot of Not-Book, the interactive learning platform",
         yearStart: 2018,
         yearEnd: 2018,
-        tags: ["UX/UI", "Games", "Product Design", "Coding"],
+        tags: ["UX/UI", "Games", "Product Ideation", "Coding"],
         body: "An interactive learning platform where you learn by playing"
     },
     {
@@ -172,7 +172,7 @@ export const projectsData= [
         imageAlt: "Firefly directing crowds by projecting arrows",
         yearStart: 2017,
         yearEnd: 2017,
-        tags: ["Product Design"],
+        tags: ["Product Ideation"],
         body: "A dynamic crowd control system for evacuation of outdoor venues"
     },
     {
@@ -221,7 +221,7 @@ export const projectsData= [
         imageAlt: "A prototype smart watch and app to help you be on time",
         yearStart: 2017,
         yearEnd: 2017,
-        tags: ["Product Design", "Coding"],
+        tags: ["Product Ideation", "Coding"],
         body: "Your Personal Time Companion"
     },
     {
