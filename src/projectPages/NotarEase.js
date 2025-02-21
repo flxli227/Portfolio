@@ -101,14 +101,14 @@ function NotarEase() {
                 ]}
             />
             <p>
-                On top of that I designed some auxiliary steps before and after the meeting, such as:
+                On top of that, I designed some auxiliary steps before and after the meeting, such as:
             </p>
             <MultiColumn 
                 columns = {[
                     {
                         image: {
                             url: require("./../assets/Icons/calendar-cropped.png"),
-                            alt: "Caledar Icon",
+                            alt: "Calendar Icon",
                             filters: ["invert(1)"]
                         },
                         title:"Scheduling a new meeting",
@@ -127,9 +127,11 @@ function NotarEase() {
             />
             <h2>Conclusion</h2>
             <p>
-                Before Notarease notarisation was done in person or illegally (as has been recognised by courts in India as well). 
+                Before Notarease, notarisation was done in person or illegally (as has been recognised by courts in India as well). 
                 <br/><br/>
-                NotarEase a the first of it’s kind platform that aims to change this conventional process to bring it online. NotarEase has been accepted by courts in India and is now being used by lawyers, clients and law firms across the country.
+                NotarEase is the first-of-its-kind platform that aims to change this conventional process to bring it online.
+                <br/><br/>
+                NotarEase has been accepted by courts in India and is now being used by lawyers, clients and law firms across the country.
                 <br/><br/>
                 It is extremely satisfying to see my inputs and our work realised and used by real people to improve the efficiency in such a serious and important sector, (the legal sector).
             </p>
