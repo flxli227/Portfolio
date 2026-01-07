@@ -79,7 +79,7 @@ export const projectsData= [
         imageURL: require("./assets/Pool2/Heroshot-Steam.jpg"),
         imageAlt: "A screenshot of Pool 2 gameplay",
         yearStart: 2023,
-        yearEnd: 2024,
+        yearEnd: 2025,
         tags: ["Games", "Coding"],
         body: "A game of pool, but each player has their own cue ball and shots happen in real time",
         titleVideoOverride:{

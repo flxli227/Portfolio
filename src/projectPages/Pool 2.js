@@ -1,5 +1,6 @@
 import MultiColumn from './../components/multiColumn/MultiColumn'
 import Video from './../components/video/Video'
+import YouTube from './../components/youTube/YouTube.js'
 
 function Pool2() {
     return (
@@ -144,6 +145,14 @@ function Pool2() {
                 <br/><br/>
                 After all of this, a random aiming error is applied to the computer player so the human player is not playing against an aimbot.
             </p>
+            <h2>Online Multiplayer</h2>           
+            <p>
+                For the online multiplayer, I used Steam Relay and the Facepunch library. To keep things simple, the game uses peer to peer.
+                <br/><br/>
+                The game state is only kept with the host and I used Netcode for Gameobjects in Unity and synced the positions of the balls across the network using Network Transform.
+                <br/><br/>
+                For responsiveness the aiming of each individual cue balls uses client authority, so the player can instantly receive feedback on where they are aiming.
+            </p>
             <h2>Expanding the concept</h2>            
             <p>
                 After coding the main game I was looking to other multiplayer games for inspiration. 
@@ -183,7 +192,7 @@ function Pool2() {
                             alt: "Sink 'em all mode Pool 2 table set up"
                         },
                         title: "Sink ‘em All",
-                        body: "A game mode where everyone sinks the same set of balls."
+                        body: "A game mode where everyone sinks the same set of balls. The player who sinks the most wins."
                     },
                     {
                         video: {
@@ -194,9 +203,7 @@ function Pool2() {
                             alt: "A screenshot of time in time trial mode"
                         },
                         title: "Time trial mode",
-                        body: "A mode where you try and beat your own time." 
-                        //  (I’ll probably add an online leader board as downloadable content in the future)
-
+                        body: "A mode where you try and beat your own time and the times of others in an online leaderboard."
                     },
                 ]}
             />
@@ -238,17 +245,24 @@ function Pool2() {
                 During the development of Pool 2, I showed it at some in person festivals:
             </p>
             <ul>
-                <li><a href="https://thurrockscreenculturefestival.uk/2023-2/" target="_blank" rel="noreferrer">Thurrock Screen Culture Festival</a> </li>
+                <li><a href="https://glasgowindiegamesfest.org/gigf-2025/games/pool-2/" target="_blank" rel="noreferrer">Glasgow Independent Games Festival</a></li>
+                <li><a href="https://x.com/egx?lang=en" target="_blank" rel="noreferrer">EGX</a></li>
                 <li><a href="https://games.london/event/game-day-x/" target="_blank" rel="noreferrer">Game Day X</a></li>
                 <li>PLAY Showcase at the <a href="https://re-publica.com/en/news/tincon-x-republica-24" target="_blank" rel="noreferrer">TINCON/re:publica</a></li>
-                <li><a href="https://x.com/egx?lang=en" target="_blank" rel="noreferrer">EGX</a></li>
+                <li><a href="https://thurrockscreenculturefestival.uk/2023-2/" target="_blank" rel="noreferrer">Thurrock Screen Culture Festival</a> </li>
             </ul>
             <Video path={require("./../assets/Pool2/ReactionShot-ezgif.com-resize-video.mp4")}/>
             <p>
                 In these festivals, people love playing Pool 2 because of it’s easy to just pick up and play with friends.
                 <br/><br/>
                 I made friends in the games industry, had the first sign-ups to my mailing list, got wishlists and received feedback for my game.
+                <br/><br/>
+                I even won the Best In Show award in the Glasgow Independent Games Festival!
             </p>
+            <img
+                src={require("./../assets/Pool2/Glasgow-Prize-resized-min.jpg")}
+                alt="Screenshot of the Steam Store download demo and buy button"
+            />
             <h2>Marketing, trailers and short form content</h2> 
             <p>
                 Outside of actual development, I also made marketing material for the game.
@@ -312,6 +326,8 @@ function Pool2() {
                 <br/><br/>
                 Now that I’ve released a game, I know the basics of how to develop, design, and market a game. I feel like my next game could be much larger in scope, higher fidelity and could be made much quicker. I hope to make another commercial game in the future!
             </p>
+            <YouTube id="cVEluXX2ab0"/> 
+            {/* &t=687 Add when you have time*/}
         </>
     )
 }
