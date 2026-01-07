@@ -22,7 +22,9 @@ class KabaddiMobileGame extends React.Component {
                     <li>In each play (known as a raid), one team raids (attacks) and the other defends.</li>
                     <li>In each raid, a raider enters the opposing half of the court to tag (touch) the defenders and attempt to return to their own half court, within 30 seconds, without being tackled.</li>
                     <li>Points are awarded for successful tags, while defenders earn a point for tackling the raider.</li>
+                    <li>When there are 6 or 7 defenders, the raider can also cross a line deep into the opponent's half, (Bonus line,) to get a point.</li>
                     <li>Raids alternate between teams throughout the game.</li>
+                    <li>If you are touched as a defender and the raider crosses the half way line, or get tackled as a raider, you are out of the game until you are revived.</li>
                 </ul>
                 <p>
                     Think “British Bulldog”, but the raider has to touch someone on the opposite team and get back to their own half.
