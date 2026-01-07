@@ -1,5 +1,4 @@
 import MultiColumn from './../components/multiColumn/MultiColumn'
-import ImageGallery from 'react-image-gallery';
 
 function NotarEase() {
     return (
