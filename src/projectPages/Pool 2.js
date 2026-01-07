@@ -261,7 +261,7 @@ function Pool2() {
             </p>
             <img
                 src={require("./../assets/Pool2/Glasgow-Prize-resized-min.jpg")}
-                alt="Screenshot of the Steam Store download demo and buy button"
+                alt="Me holding up the Best In Show Award in front of Pool 2 playing in the background"
             />
             <h2>Marketing, trailers and short form content</h2> 
             <p>
