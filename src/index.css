@@ -67,6 +67,11 @@ code {
     monospace;
 }
 
+strong {
+  font-weight: bold;
+  color: var(---color-highlight-2);
+}
+
 /* Breakpoints */
 
 /* Smaller than 481px is mobile */

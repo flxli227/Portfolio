@@ -9,6 +9,7 @@ import Firefly from '../../projectPages/Firefly';
 import FronTiers from '../../projectPages/FronTiers';
 import GorillaSuit from '../../projectPages/Gorilla Suit';
 import KabaddiMobileGame from '../../projectPages/Kabaddi Mobile Game';
+import KabaddiScoreboard from '../../projectPages/Kabaddi Scoreboard';
 import Library from '../../projectPages/Library';
 import ME2ScooterProject from '../../projectPages/ME2 Scooter Project';
 import NewSpawnBaby from '../../projectPages/New Spawn Baby';
@@ -41,7 +42,9 @@ class JavascriptPageShow extends Component {
       return <GorillaSuit/>  
     } else if(projectName === "Kabaddi Mobile Game"){
       return <KabaddiMobileGame/>  
-    }else if(projectName === "Library"){
+    } else if(projectName === "Kabaddi Scoreboard"){
+      return <KabaddiScoreboard/>  
+    } else if(projectName === "Library"){
       return <Library/>  
     }else if(projectName === "ME2 Scooter Project"){
       return <ME2ScooterProject/>  

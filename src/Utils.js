@@ -62,14 +62,25 @@ export const tags=[
 export const projectsData= [
     {
         id: 19,
+        name: "Kabaddi Scoreboard",
+        imageURL: require("./assets/Kabaddi Scoreboard/Hero.png"),
+        imageAlt: "Pasta or Noodle Hero Image",
+        yearStart: 2025,
+        yearEnd: 2026,
+        tags: ["UX/UI", "Coding"],
+        body: "A mobile app for Kabaddi referees to keep track of the score and more",
+    },
+    {
+        id: 18,
         name: "Kabaddi Mobile Game",
         imageURL: require("./assets/Kabaddi Mobile Game/Hero-min2.jpg"),
-        imageAlt: "Pasta or Noodle Hero Image",
+        imageAlt: "Kabaddi Mobile game Hero Image",
         yearStart: 2025,
         // yearEnd: ,
         tags: ["Games", "Coding"],
         body: "A online mobile game for the sport Kabaddi",
-    },{
+    },
+    {
         id: 17,
         name: "Pasta or Noodles",
         imageURL: require("./assets/Pasta or Noodles/HeroImage2-ezgif.com-png-to-jpg-converter.jpg"),
