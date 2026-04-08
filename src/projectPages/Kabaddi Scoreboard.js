@@ -1,6 +1,7 @@
 import React from 'react';
 import MultiColumn from './../components/multiColumn/MultiColumn'
 import Video from './../components/video/Video'
+import ImageGallery from 'react-image-gallery'
 
 class KabaddiMobileGame extends React.Component {
     render(){
@@ -9,8 +10,10 @@ class KabaddiMobileGame extends React.Component {
                 <h2>What is it?</h2>
                 <p>
                     It is an app that helps Kabaddi referees keep track of the score, time, and other things during a Kabaddi game.
-                    {/* <br/><br/>
-                    I coded it using React Native, Expo. */}
+                    <br/><br/>
+                    Check it out on the <a href="https://play.google.com/store/apps/details?id=com.flxli227.kabaddi_score_board" target="_blank" rel="noreferrer">Google Play Store</a>! (App Store coming soon.)
+                    <br/><br/>
+                    For support, feedback and feature requests please <a href="mailto:flxli227@gmail.com" target="_blank" rel="noreferrer">email me</a>.
                 </p>
                 <h2>The problem</h2>
                 <p>Right now, in big Kabaddi tournaments, they have a team of referees and match officials to keep track of everything.</p>
@@ -73,9 +76,18 @@ class KabaddiMobileGame extends React.Component {
                 />
                 <h2>My solution</h2>
                 <p>An app that is simple to use, where a single referee can keep track of everything.</p>
-                <img
-                    src={require("./../assets/Kabaddi Scoreboard/Features.png")}
-                    alt="The app interface"
+                <ImageGallery
+                    // lazyLoad={true}
+                    items={[
+                        {
+                            original: require("./../assets/Kabaddi Scoreboard/Screenshots min.png"),
+                            thumbnail: require("./../assets/Kabaddi Scoreboard/Screenshots min.png"),
+                        },
+                        {
+                            original: require("./../assets/Kabaddi Scoreboard/Features 2 min.png"),
+                            thumbnail: require("./../assets/Kabaddi Scoreboard/Features 2 min.png"),
+                        },
+                    ]}
                 />
                 <h3>Video demo</h3>
                 <p>Here it is in a match situation!</p>

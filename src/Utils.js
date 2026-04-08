@@ -63,8 +63,8 @@ export const projectsData= [
     {
         id: 19,
         name: "Kabaddi Scoreboard",
-        imageURL: require("./assets/Kabaddi Scoreboard/Hero.png"),
-        imageAlt: "Pasta or Noodle Hero Image",
+        imageURL: require("./assets/Kabaddi Scoreboard/Hero 2 min.png"),
+        imageAlt: "Kabaddi Scoreboard store screenshots",
         yearStart: 2025,
         yearEnd: 2026,
         tags: ["UX/UI", "Coding"],
