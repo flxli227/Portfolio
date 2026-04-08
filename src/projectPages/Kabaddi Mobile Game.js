@@ -9,11 +9,14 @@ class KabaddiMobileGame extends React.Component {
         return (
             <>
                 <h2>What is it?</h2>
-                <p>The Kabaddi mobile game is the project I am currently working on. It is an online sports game for mobile of the sport Kabaddi.</p>
-                <Video 
+                <p>
+                    The Kabaddi mobile game is the project I am currently working on. It is an online sports game for mobile of the sport Kabaddi.
+                </p>
+                <YouTube id="O1k5b8zZqAI"/>
+                {/* <Video 
                     lazyLoad={true} 
                     path={require("./../assets/Kabaddi Mobile Game/KabaddiGameIntro-ezgif.com-resize-video.mp4")}
-                />
+                /> */}
 
                 <h2>What is Kabaddi?</h2>
                 <p>Kabaddi is a traditional Indian game, and here are the basic rules:</p>
