@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.af4822b0.css",
-    "main.js": "/static/js/main.846c80ab.js",
+    "main.js": "/static/js/main.6740beb3.js",
     "static/js/453.5858e738.chunk.js": "/static/js/453.5858e738.chunk.js",
     "static/media/01 - VIDEO0069.mp4": "/static/media/01 - VIDEO0069.a673e4a78ca4ae26e02e.mp4",
     "static/media/Promo Video.mp4": "/static/media/Promo Video.65812f8d0b1c9890da2c.mp4",
@@ -12,7 +12,6 @@
     "static/media/SelfieVideo.mp4": "/static/media/SelfieVideo.0c3a4b6a9d592256004b.mp4",
     "static/media/Scoreboarddemoshort-compressed.mp4": "/static/media/Scoreboarddemoshort-compressed.72a924f70abebf85ceca.mp4",
     "static/media/Demo Trailer.mp4": "/static/media/Demo Trailer.82474590ff5358822719.mp4",
-    "static/media/KabaddiGameIntro-ezgif.com-resize-video.mp4": "/static/media/KabaddiGameIntro-ezgif.com-resize-video.b5ccc02f8f0252ee2221.mp4",
     "static/media/Fumble.mp4": "/static/media/Fumble.5a4adcb7c93a06b449c2.mp4",
     "static/media/01 - Clicking and Dragging.mp4": "/static/media/01 - Clicking and Dragging.ef751643accc2ff7c63a.mp4",
     "static/media/Customizer.mp4": "/static/media/Customizer.f870e255b2b293f05aa5.mp4",
@@ -90,6 +89,7 @@
     "static/media/CustomizerSearch-min.jpg": "/static/media/CustomizerSearch-min.7524f28af020be3e99c2.jpg",
     "static/media/Medal.webp": "/static/media/Medal.223d3a058c2be8df4b94.webp",
     "static/media/IMG_20170319_111435-resized-min.jpg": "/static/media/IMG_20170319_111435-resized-min.1d41e79fa3ee0476219a.jpg",
+    "static/media/Hero 2 min.png": "/static/media/Hero 2 min.9e08527f4020b013df53.png",
     "static/media/IMG_20170317_161209-resized-min.jpg": "/static/media/IMG_20170317_161209-resized-min.72213a1063bd476382a3.jpg",
     "static/media/Royal College of Art-Photoroom.png-Photoroom.png": "/static/media/Royal College of Art-Photoroom.png-Photoroom.cea4e2e2fec32a8f8bf0.png",
     "static/media/ExampleFronTier-min.jpg": "/static/media/ExampleFronTier-min.1d89ce3d630181f5315a.jpg",
@@ -121,12 +121,12 @@
     "static/media/IMAG0947-resized-min.jpg": "/static/media/IMAG0947-resized-min.5acb61246c020202d293.jpg",
     "static/media/20180908_195301-resized-min.jpg": "/static/media/20180908_195301-resized-min.54916ad9133c9527c9d5.jpg",
     "static/media/Training.jpg": "/static/media/Training.4cc1b2dc34b83eb9bc38.jpg",
+    "static/media/Screenshots min.png": "/static/media/Screenshots min.9cb33457fecbec71a2b6.png",
     "static/media/ExampleFronTier2-min.jpg": "/static/media/ExampleFronTier2-min.31e787585ea0e5b91416.jpg",
     "static/media/Prototype Screenshots-01.png": "/static/media/Prototype Screenshots-01.88d8d979996ab283c13b.png",
     "static/media/Pool100Screenshot-ezgif.com-resize.jpg": "/static/media/Pool100Screenshot-ezgif.com-resize.5c2f7bae65cfa06e6415.jpg",
     "static/media/Milestones-min.jpg": "/static/media/Milestones-min.ceb11a04883851ee687a.jpg",
     "static/media/TimeTrialScreenshot-ezgif.com-resize.jpg": "/static/media/TimeTrialScreenshot-ezgif.com-resize.5ae791a3a93cc599cb25.jpg",
-    "static/media/Hero.png": "/static/media/Hero.d38dd958645aadfb15ab.png",
     "static/media/HeroImage.jpg": "/static/media/HeroImage.7775228037ee3148b52d.jpg",
     "static/media/image 41-min.jpg": "/static/media/image 41-min.5c80a02385c217e47f92.jpg",
     "static/media/Docs.png": "/static/media/Docs.409216871138d12cba78.png",
@@ -183,6 +183,7 @@
     "static/media/DSCF1740-resized-min.jpg": "/static/media/DSCF1740-resized-min.2a63ab5e797435644145.jpg",
     "static/media/Stirrer Narative-resized-min.jpg": "/static/media/Stirrer Narative-resized-min.44c610bba0a0f342e8f4.jpg",
     "static/media/IMAG0481-resized-min.jpg": "/static/media/IMAG0481-resized-min.960bc3b0106e79452ecc.jpg",
+    "static/media/Hero.png": "/static/media/Hero.d38dd958645aadfb15ab.png",
     "static/media/CreatorSideUI2.png": "/static/media/CreatorSideUI2.4c0fddfc67c963053400.png",
     "static/media/IMAG0735-resized-min.jpg": "/static/media/IMAG0735-resized-min.ed8e43a5ee2c324aacab.jpg",
     "static/media/Slow Information Spread-03.png": "/static/media/Slow Information Spread-03.8390b71e2fd9eae253c8.png",
@@ -220,7 +221,6 @@
     "static/media/OUTER HOUSING RIGHT-resized-min.png": "/static/media/OUTER HOUSING RIGHT-resized-min.9a00b2edb04784818e17.png",
     "static/media/IMAG0925-thumbnail.jpg": "/static/media/IMAG0925-thumbnail.9912acd8a16071a580e7.jpg",
     "static/media/Day Timeline 2-resized-min.jpg": "/static/media/Day Timeline 2-resized-min.b57d47b823ce756e6b21.jpg",
-    "static/media/Features.png": "/static/media/Features.a767388789c76a568a72.png",
     "static/media/IMAG0789-resized-min.jpg": "/static/media/IMAG0789-resized-min.97d0933160036c6462f1.jpg",
     "static/media/Maths 2.jpg": "/static/media/Maths 2.c174f3e6113c5adc9af0.jpg",
     "static/media/Timie EXP Pictures-03-min.png": "/static/media/Timie EXP Pictures-03-min.65a0aa8cc2b8a3f3e408.png",
@@ -231,6 +231,7 @@
     "static/media/EXP Pictures-06-min.jpg": "/static/media/EXP Pictures-06-min.094b685e00a84db91d0f.jpg",
     "static/media/Joe as a Bird-min.jpg": "/static/media/Joe as a Bird-min.a81264da51f4dc1d3d1e.jpg",
     "static/media/FakeMenu.mp4": "/static/media/FakeMenu.4d9a43427428b54b7261.mp4",
+    "static/media/Features 2 min.png": "/static/media/Features 2 min.567f336658c75af1af6d.png",
     "static/media/Shanghai NYE-resized-min.jpg": "/static/media/Shanghai NYE-resized-min.7262cd26f18c4a7b29fd.jpg",
     "static/media/IMAG0949-thumbnail.jpg": "/static/media/IMAG0949-thumbnail.75218a6b00b9b8386dbf.jpg",
     "static/media/EXP Pictures-08-min.jpg": "/static/media/EXP Pictures-08-min.701f5fe93517f2f63b7b.jpg",
@@ -397,11 +398,11 @@
     "static/media/Hamburger.svg": "/static/media/Hamburger.7ab380941805ef19c9a1.svg",
     "static/media/Close.svg": "/static/media/Close.be8946c25ad550399dad.svg",
     "main.af4822b0.css.map": "/static/css/main.af4822b0.css.map",
-    "main.846c80ab.js.map": "/static/js/main.846c80ab.js.map",
+    "main.6740beb3.js.map": "/static/js/main.6740beb3.js.map",
     "453.5858e738.chunk.js.map": "/static/js/453.5858e738.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.af4822b0.css",
-    "static/js/main.846c80ab.js"
+    "static/js/main.6740beb3.js"
   ]
 }
